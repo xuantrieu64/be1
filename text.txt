@@ -1,0 +1,10 @@
+composer create-project --prefer-dist laravel/laravel project-name "11.*"
+code .
+php artisan migrate
+composer require laravel/breeze --dev
+php artisan breeze:install
+blade
+no
+0
+npm install
+php artisan rollback
